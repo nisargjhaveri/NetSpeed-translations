@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">NetSpeed સૂચક</string>
+
+    <!-- Option menu -->
+    <string name="about">આ ઍપ વિશે</string>
+    <string name="rate_this_app">આ એપને રેટ કરો</string>
+
+    <!-- About -->
+    <string name="send_feedback">પ્રતિસાદ મોકલો</string>
+    <string name="write_comments_here">તમારી ટિપ્પણીઓ અહીં લખો...</string>
+    <string name="feedback_subject">NetSpeed સૂચક ઍપ અંગે પ્રતિસાદ</string>
+
+    <string name="privacy_policy">ગોપનીયતા નીતિ</string>
+
+    <string name="disclaimer">અસ્વીકાર</string>
+
+    <string name="made_with_love_in_india">ભારતમાં ❤️ થી બનાવેલ</string>
+
+    <!-- Notification Layout -->
+    <string name="notif_settings_button">સેટિંગ્સ બટન</string>
+
+    <string name="notif_down_speed">ડાઉન:\u00A0%s\u00A0%s</string>
+    <string name="notif_up_speed">અપ:\u00A0%s\u00A0%s</string>
+    <string name="notif_data_usage">ડેટા:\u00A0%s\u00A0%s</string>
+    <string name="notif_wifi_usage">વાઇફાઇ:\u00A0%s\u00A0%s</string>
+
+    <string name="notif_have_a_nice_day">તમારો દિવસ શુભ રહે! :)</string>
+
+    <!-- Settings -->
+    <string name="pref_enable_indicator_title">સૂચક સક્રિય કરો</string>
+    <string name="pref_enable_indicator_summary">સ્થિતિ બારમાં NetSpeed સૂચક દર્શાવો</string>
+
+    <string name="pref_notification_settings_title">સૂચક ગોઠવણીઓ</string>
+
+    <string name="pref_notification_priority_title">સૂચના અગ્રતા</string>
+    <string name="pref_notification_priority_max">મહત્તમ</string>
+    <string name="pref_notification_priority_high">વધારે</string>
+    <string name="pref_notification_priority_default">સામાન્ય</string>
+    <string name="pref_notification_priority_low">ઓછી</string>
+
+    <string name="pref_indicator_speed_to_show">સૂચક ચિહ્નમાં બતાવવાની ઝડપ</string>
+    <string name="pref_indicator_speed_total">કુલ ઝડપ</string>
+    <string name="pref_indicator_speed_down">ડાઉનલોડ ઝડપ</string>
+    <string name="pref_indicator_speed_up">અપલોડ ઝડપ</string>
+
+    <string name="pref_lockscreen_notification_title">લૉકસ્ક્રીન પર સૂચના</string>
+    <string name="pref_lockscreen_notification_summary_on">સૂચના લૉકસ્ક્રીન પર દેખાશે</string>
+    <string name="pref_lockscreen_notification_summary_off">સૂચના લૉકસ્ક્રીન પરથી છુપાવેલ છે</string>
+
+    <string name="pref_hide_when_disconnected_title">નેટવર્ક ના હોય ત્યારે છુપાવો</string>
+    <string name="pref_hide_when_disconnected_summary">જ્યારે કોઈ પણ નેટવર્ક ચાલુ ન હોય ત્યારે સૂચક છુપાવો</string>
+
+    <string name="pref_speed_unit_title">ઝડપનો એકમ</string>
+    <string name="pref_speed_unit_Bps">બાઇટ્સ પ્રતિ સેકન્ડ</string>
+    <string name="pref_speed_unit_bps">બીટ્સ પ્રતિ સેકન્ડ</string>
+
+    <string name="pref_usage_unit_title">ડેટા વપરાશનો એકમ</string>
+    <string name="pref_usage_unit_kb">બીટ્સ, 1\u00A0Mb\u00A0=\u00A01000\u00A0kb</string>
+    <string name="pref_usage_unit_kB">બાઇટ્સ, 1\u00A0MB\u00A0=\u00A01000\u00A0kB</string>
+    <string name="pref_usage_unit_KiB">બાઇટ્સ, 1\u00A0MiB\u00A0=\u00A01024\u00A0KiB</string>
+
+    <string name="pref_notification_layout_title">સૂચનાનો દેખાવ</string>
+
+    <string name="pref_daily_data_usage_title">દૈનિક ડેટા વપરાશ</string>
+    <string name="pref_daily_data_usage_summary">સૂચનામાં મોબાઇલ ડેટાનો દૈનિક વપરાશ દર્શાવો</string>
+
+    <string name="pref_daily_wifi_usage_title">દૈનિક WiFi વપરાશ</string>
+    <string name="pref_daily_wifi_usage_summary">સૂચનામાં વાઇફાઇનો દૈનિક વપરાશ દર્શાવો</string>
+
+    <string name="pref_down_up_speed_title">ડાઉનલોડ/અપલોડ ઝડપ</string>
+    <string name="pref_down_up_speed_summary">સૂચનામાં ડાઉન/અપ ઝડપ દર્શાવો</string>
+
+    <string name="pref_settings_button_title">સેટિંગ્સ બટન</string>
+    <string name="pref_settings_button_summary">સેટિંગ્સ ખોલવા માટે સૂચનામાં એક બટન બતાવો</string>
+
+    <string name="pref_general_options_title">સામાન્ય ગોઠવણીઓ</string>
+
+    <string name="pref_start_on_boot_title">સ્ટાર્ટઅપ પર શરૂ કરો</string>
+    <string name="pref_start_on_boot_summary_on">સૂચક સિસ્ટમ બૂટ પછી આપમેળે સક્રિય થઈ જશે</string>
+    <string name="pref_start_on_boot_summary_off">સૂચક સિસ્ટમ બૂટ પછી આપમેળે સક્રિય નહીં થાય</string>
+
+    <string name="usage_access_required_title">વપરાશ ઍક્સેસ જરૂરી</string>
+    <string name="usage_access_required_message">ડેટા અને વાઇફાઇનો દૈનિક વપરાશ દર્શાવવા માટે વપરાશ ઍક્સેસની આવશ્યકતા છે. સેટિંગ્સમાંથી NetSpeed સૂચક માટે વપરાશ ઍક્સેસની મંજૂરી આપો.</string>
+    <string name="open_settings">સેટિંગ્સ ખોલો</string>
+    <string name="cancel">રદ કરો</string>
+
+    <string name="telephony_permission_required">પરવાનગી જરૂરી</string>
+    <string name="telephony_permission_rationale">\"ફોન સ્થિતિ વાંચવા\"ની પરવાનગી દૈનિક મોબાઇલ ડેટા વપરાશ મેળવવા માટે આવશ્યક છે. આ ઍપ ફોન કૉલ્સ અથવા ફોનનો ઇતિહાસ જોતો કે બદલતો નથી.</string>
+    <string name="okay">સારું</string>
+
+    <string name="pref_not_available">તમારા ઉપકરણ પર ઉપલબ્ધ નથી</string>
+</resources>

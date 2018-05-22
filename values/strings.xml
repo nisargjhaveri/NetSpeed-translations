@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">NetSpeed Indicator</string>
+
+    <string name="plus99" translatable="false">99+</string>
+    <string name="plus999" translatable="false">999+</string>
+
+    <!-- Option menu -->
+    <string name="about">About</string>
+    <string name="rate_this_app">Rate this app</string>
+
+    <!-- About -->
+    <string name="send_feedback">Send feedback</string>
+    <string name="feedback_email" translatable="false">netspeed.indicator@gmail.com</string>
+    <string name="write_comments_here">Write your comments here...</string>
+    <string name="feedback_subject">Feedback about NetSpeed Indicator App</string>
+
+    <string name="privacy_policy">Privacy policy</string>
+
+    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer_message" translatable="false">
+        This application is provided AS IS, without warranty of any kind, express or implied.
+        The network usage information provided by the application can be wrong or incomplete.
+        The developers are not responsible for any damage or loss, arising from the usage of this application.
+    </string>
+
+    <string name="made_with_love_in_india">Made with ❤️ in India</string>
+
+    <!-- Notification Layout -->
+    <string name="notif_settings_button">Settings Button</string>
+
+    <string name="notif_down_speed">Down:\u00A0%s\u00A0%s</string>
+    <string name="notif_up_speed">Up:\u00A0%s\u00A0%s</string>
+    <string name="notif_data_usage">Data:\u00A0%s\u00A0%s</string>
+    <string name="notif_wifi_usage">WiFi:\u00A0%s\u00A0%s</string>
+
+    <string name="notif_have_a_nice_day">Have a nice day! :)</string>
+
+    <!-- Settings -->
+    <string name="pref_enable_indicator_title">Enable indicator</string>
+    <string name="pref_enable_indicator_summary">Show NetSpeed indicator in the status bar</string>
+
+    <string name="pref_notification_settings_title">Notification Settings</string>
+
+    <string name="pref_notification_priority_title">Notification priority</string>
+    <string name="pref_notification_priority_max">Maximum</string>
+    <string name="pref_notification_priority_high">High</string>
+    <string name="pref_notification_priority_default">Normal</string>
+    <string name="pref_notification_priority_low">Low</string>
+
+    <string name="pref_indicator_speed_to_show">Speed to show in indicator icon</string>
+    <string name="pref_indicator_speed_total">Total speed</string>
+    <string name="pref_indicator_speed_down">Download speed</string>
+    <string name="pref_indicator_speed_up">Upload speed</string>
+
+    <string name="pref_lockscreen_notification_title">Lockscreen notification</string>
+    <string name="pref_lockscreen_notification_summary_on">Notification is visible on lockscreen</string>
+    <string name="pref_lockscreen_notification_summary_off">Notification is hidden from lockscreen</string>
+
+    <string name="pref_hide_when_disconnected_title">Hide when disconnected</string>
+    <string name="pref_hide_when_disconnected_summary">Hide indicator when not connected to any network</string>
+
+    <string name="pref_speed_unit_title">Speed units</string>
+    <string name="pref_speed_unit_Bps">Bytes per second</string>
+    <string name="pref_speed_unit_bps">Bits per second</string>
+
+    <string name="pref_usage_unit_title">Data usage units</string>
+    <string name="pref_usage_unit_kb">Bits, 1\u00A0Mb\u00A0=\u00A01000\u00A0kb</string>
+    <string name="pref_usage_unit_kB">Bytes, 1\u00A0MB\u00A0=\u00A01000\u00A0kB</string>
+    <string name="pref_usage_unit_KiB">Bytes, 1\u00A0MiB\u00A0=\u00A01024\u00A0KiB</string>
+
+    <string name="pref_notification_layout_title">Notification Layout</string>
+
+    <string name="pref_daily_data_usage_title">Daily data usage</string>
+    <string name="pref_daily_data_usage_summary">Show daily mobile data usage in notification</string>
+
+    <string name="pref_daily_wifi_usage_title">Daily WiFi usage</string>
+    <string name="pref_daily_wifi_usage_summary">Show daily WiFi usage in notification</string>
+
+    <string name="pref_down_up_speed_title">Download/Upload speed</string>
+    <string name="pref_down_up_speed_summary">Show down/up speeds in notification</string>
+
+    <string name="pref_settings_button_title">Settings button</string>
+    <string name="pref_settings_button_summary">Show a button in notification to open settings</string>
+
+    <string name="pref_general_options_title">General Options</string>
+
+    <string name="pref_start_on_boot_title">Start on boot</string>
+    <string name="pref_start_on_boot_summary_on">The indicator will be started on boot</string>
+    <string name="pref_start_on_boot_summary_off">The indicator will not be started on boot</string>
+
+    <string name="usage_access_required_title">Usage Access Required</string>
+    <string name="usage_access_required_message">Usage Access Permission is required to show daily Data and WiFi usage. Please enable Usage Access for NetSpeed Indicator from settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="telephony_permission_required">Permission required</string>
+    <string name="telephony_permission_rationale">Permission to \"read phone state\" is required to access daily mobile data usage. The app does not access or modify phone logs or make phone calls.</string>
+    <string name="okay">Okay</string>
+
+    <string name="pref_not_available">Not available on your device</string>
+</resources>

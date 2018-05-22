@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">NetSpeed सूचक</string>
+
+    <!-- Option menu -->
+    <string name="about">ऐप के बारे में</string>
+    <string name="rate_this_app">इस ऐप को रेट करें</string>
+
+    <!-- About -->
+    <string name="send_feedback">प्रतिक्रिया भेजें</string>
+    <string name="write_comments_here">आपकी टिप्पणियाँ यहां लिखें...</string>
+    <string name="feedback_subject">NetSpeed सूचक ऐप के बारे में प्रतिक्रिया</string>
+
+    <string name="privacy_policy">गोपनीयता नीति</string>
+
+    <string name="disclaimer">अस्वीकरण</string>
+
+    <string name="made_with_love_in_india">भारत में ❤️ से बनाया हुआ</string>
+
+    <!-- Notification Layout -->
+    <string name="notif_settings_button">सेटिंग्स बटन</string>
+
+    <string name="notif_down_speed">डाउन:\u00A0%s\u00A0%s</string>
+    <string name="notif_up_speed">अप:\u00A0%s\u00A0%s</string>
+    <string name="notif_data_usage">डेटा:\u00A0%s\u00A0%s</string>
+    <string name="notif_wifi_usage">वाईफ़ाई:\u00A0%s\u00A0%s</string>
+
+    <string name="notif_have_a_nice_day">आपका दिन शुभ हो! :)</string>
+
+    <!-- Settings -->
+    <string name="pref_enable_indicator_title">सूचक सक्रिय करें</string>
+    <string name="pref_enable_indicator_summary">स्थिति पट्टी में NetSpeed सूचक दिखाएं</string>
+
+    <string name="pref_notification_settings_title">सूचक सेटिंग्स</string>
+
+    <string name="pref_notification_priority_title">सूचना प्राथमिकता</string>
+    <string name="pref_notification_priority_max">अधिकतम</string>
+    <string name="pref_notification_priority_high">उच्च</string>
+    <string name="pref_notification_priority_default">साधारण</string>
+    <string name="pref_notification_priority_low">कम</string>
+
+    <string name="pref_indicator_speed_to_show">सूचक चिह्न में दिखाने के लिए गति</string>
+    <string name="pref_indicator_speed_total">कुल गति</string>
+    <string name="pref_indicator_speed_down">डाउनलोड गति</string>
+    <string name="pref_indicator_speed_up">अपलोड गति</string>
+
+    <string name="pref_lockscreen_notification_title">लॉकस्क्रीन पर सूचना</string>
+    <string name="pref_lockscreen_notification_summary_on">सूचना लॉकस्क्रीन पर दिखाई जाएगी</string>
+    <string name="pref_lockscreen_notification_summary_off">सूचना लॉकस्क्रीन से छिपी है</string>
+
+    <string name="pref_hide_when_disconnected_title">डिस्कनेक्ट हो जाने पर छिपाएं</string>
+    <string name="pref_hide_when_disconnected_summary">किसी भी नेटवर्क से कनेक्टेड न होने पर सूचक छिपाएं</string>
+
+    <string name="pref_speed_unit_title">गति का मात्रक</string>
+    <string name="pref_speed_unit_Bps">बाइट्स प्रति सेकंड</string>
+    <string name="pref_speed_unit_bps">बिट्स प्रति सेकंड</string>
+
+    <string name="pref_usage_unit_title">डेटा उपयोग का मात्रक</string>
+    <string name="pref_usage_unit_kb">बिट्स, 1\u00A0Mb\u00A0=\u00A01000\u00A0kb</string>
+    <string name="pref_usage_unit_kB">बाइट्स, 1\u00A0MB\u00A0=\u00A01000\u00A0kB</string>
+    <string name="pref_usage_unit_KiB">बाइट्स, 1\u00A0MiB\u00A0=\u00A01024\u00A0KiB</string>
+
+    <string name="pref_notification_layout_title">सूचना का दिखाव</string>
+
+    <string name="pref_daily_data_usage_title">दैनिक डेटा उपयोग</string>
+    <string name="pref_daily_data_usage_summary">सूचना में मोबाइल डेटा का दैनिक उपयोग दिखाएं</string>
+
+    <string name="pref_daily_wifi_usage_title">दैनिक WiFi उपयोग</string>
+    <string name="pref_daily_wifi_usage_summary">सूचना में वाईफ़ाई का दैनिक उपयोग दिखाएं</string>
+
+    <string name="pref_down_up_speed_title">डाउनलोड/अपलोड गति</string>
+    <string name="pref_down_up_speed_summary">सूचना में डाउन/अप गति दिखाएं</string>
+
+    <string name="pref_settings_button_title">सेटिंग्स बटन</string>
+    <string name="pref_settings_button_summary">सेटिंग्स खोलने के लिए सूचना में एक बटन दिखाएं</string>
+
+    <string name="pref_general_options_title">सामान्य सेटिंग्स</string>
+
+    <string name="pref_start_on_boot_title">सिस्टम बूट पर शुरू करें</string>
+    <string name="pref_start_on_boot_summary_on">सूचक को सिस्टम बूट पर स्वतः सक्रिय किया जाएगा</string>
+    <string name="pref_start_on_boot_summary_off">सूचक को सिस्टम बूट पर स्वतः सक्रिय नहीं किया जाएगा</string>
+
+    <string name="usage_access_required_title">उपयोग एक्सेस आवश्यक</string>
+    <string name="usage_access_required_message">दैनिक डेटा और वाईफाई का दैनिक उपयोग दिखाने के लिए उपयोग एक्सेस अनुमति की आवश्यकता है. सेटिंग्स से NetSpeed सूचक के लिए उपयोग एक्सेस की अनुमति दें.</string>
+    <string name="open_settings">सेटिंग्स खोलें</string>
+    <string name="cancel">रद्द करें</string>
+
+    <string name="telephony_permission_required">अनुमति आवश्यक है</string>
+    <string name="telephony_permission_rationale">\"फ़ोन स्थिति पढ़ने\" की अनुमति दैनिक मोबाइल डेटा उपयोग को एक्सेस करने के लिए आवश्यक है. यह ऐप फ़ोन लॉग को एक्सेस या संशोधित नहीं करता है और ना ही फ़ोन कॉल करता है.</string>
+    <string name="okay">ठीक है</string>
+
+    <string name="pref_not_available">आपके डिवाइस पर उपलब्ध नहीं है</string>
+</resources>
